@@ -1,0 +1,58 @@
+{
+    "candidatsFederale": [
+        {
+            "name": "Justin Trudeau",
+            "parti": "P.L.C"
+        },
+        {
+            "name": "Andrew Scheer",
+            "parti": "P.C.C"
+        },
+        {
+            "name": "Yves-Francois Blanchet",
+            "parti": "B.Q"
+        },
+        {
+            "name": "Jagmeet Singh",
+            "parti": "N.P.D"
+        },
+        {
+            "name": "Elizabeth May",
+            "parti": "P.V.C"
+        },
+        {
+            "name": "Maxime Bernier",
+            "parti": "P.P.C"
+        }
+    ],
+    "candidatProvinciale": [
+        {
+            "name": "Francois Legault",
+            "parti": "C.A.Q"
+        },
+        {
+            "name": "Philippe Couillard",
+            "parti": "P.L.Q"
+        },
+        {
+            "name": "Jean-Francois Lisée",
+            "parti": "P.Q"
+        },
+        {
+            "name": "Alex Tyrell",
+            "parti": "P.V.Q"
+        },
+        {
+            "name": "Manon Massé",
+            "parti": "Q.S"
+        },
+        {
+            "name": "Adrien Pouliot",
+            "parti": "P.C.Q"
+        },
+        {
+            "name": "Michel Lepage",
+            "parti": "P.I.Q"
+        }
+    ]
+}
